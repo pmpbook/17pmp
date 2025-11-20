@@ -5,11 +5,6 @@
   <a href="https://github.com/pmpbook/17pmp"><img src="https://img.shields.io/github/stars/pmpbook/17pmp.svg?style=social" alt="码云仓库"/>
 </p>
 
-## ✨项目地址
- - 1、PC端：https://17pmp.com
- - 2、微信小程序：搜「17PMP」
-
-
 
 ## 🤩项目更新日志
 ### 未来的规划
